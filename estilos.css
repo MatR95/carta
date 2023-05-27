@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(46, 226, 46);
+}
+
+.card {
+    margin: auto;
+    margin-top: 50px;
+    box-shadow: 2px 4px 20px
+    rgba(48, 48, 129, 0.5);
+}
+
+p {
+    font-size: 20px;
+}
+
+.imagen {
+    width: 250px;
+    height: 200px;
+    margin: 20px auto;
+}
